@@ -1,4 +1,4 @@
-Here's a sample `README.md` file for the **FixPay** QR code generator module. This documentation is designed to guide developers in integrating and using the module effectively.
+
 
 ```markdown
 # FixPay QR Code Generator
